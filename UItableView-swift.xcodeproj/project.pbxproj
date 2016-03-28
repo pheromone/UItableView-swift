@@ -12,6 +12,8 @@
 		A760C1361CA29A46006194CA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A760C1341CA29A46006194CA /* Main.storyboard */; };
 		A760C1381CA29A46006194CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A760C1371CA29A46006194CA /* Assets.xcassets */; };
 		A760C13B1CA29A46006194CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A760C1391CA29A46006194CA /* LaunchScreen.storyboard */; };
+		A760C1441CA29E84006194CA /* 2222.png in Resources */ = {isa = PBXBuildFile; fileRef = A760C1421CA29E84006194CA /* 2222.png */; };
+		A760C1451CA29E84006194CA /* 1111.png in Resources */ = {isa = PBXBuildFile; fileRef = A760C1431CA29E84006194CA /* 1111.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		A760C1371CA29A46006194CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A760C13A1CA29A46006194CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A760C13C1CA29A46006194CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A760C1421CA29E84006194CA /* 2222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2222.png; sourceTree = "<group>"; };
+		A760C1431CA29E84006194CA /* 1111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1111.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				A760C1301CA29A46006194CA /* AppDelegate.swift */,
+				A760C1421CA29E84006194CA /* 2222.png */,
+				A760C1431CA29E84006194CA /* 1111.png */,
 				A760C1321CA29A46006194CA /* ViewController.swift */,
 				A760C1341CA29A46006194CA /* Main.storyboard */,
 				A760C1371CA29A46006194CA /* Assets.xcassets */,
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A760C13B1CA29A46006194CA /* LaunchScreen.storyboard in Resources */,
+				A760C1451CA29E84006194CA /* 1111.png in Resources */,
+				A760C1441CA29E84006194CA /* 2222.png in Resources */,
 				A760C1381CA29A46006194CA /* Assets.xcassets in Resources */,
 				A760C1361CA29A46006194CA /* Main.storyboard in Resources */,
 			);
